@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice_15</string>
+    <string name="Name">Name</string>
+    <string name="Breed">Breed</string>
+    <string name="YearOfBirth">Year of birth</string>
+    <string name="MonthOfBirth">Month of birth</string>
+</resources>
